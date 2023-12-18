@@ -1,3 +1,6 @@
+![Profile Image](https://github.com/Rakesh-git-2/Rakesh-git-2/blob/main/github-header-image.png?raw=true)
+
+
 # Rakesh Srinivasan 👨‍💻
 
 ## 🌐 Location: Dublin, Ireland | 📧 Email: engineer.rakesh@outlook.com | 📱 Mobile: +353(89)2081816

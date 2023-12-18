@@ -3,7 +3,8 @@
 
 # Rakesh Srinivasan 👨‍💻
 
-## 🌐 Location: Dublin, Ireland | 📧 Email: engineer.rakesh@outlook.com | 📱 Mobile: +353(89)2081816
+## 🌐 Location: Dublin, Ireland
+## 📧 Email: engineer_rakesh@outlook.com | 📱 Mobile: +353(89)2081816
 
 ---
 

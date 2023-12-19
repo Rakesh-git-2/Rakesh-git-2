@@ -20,23 +20,54 @@
     
 ---
 
-## 💻 Programming Skills
+# 💻 Programming Skills
 
-### Languages
+## Languages
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Javascript](https://img.shields.io/badge/Javascript-Advanced-yellow)
+![Typescript](https://img.shields.io/badge/Typescript-Intermediate-blue)
+![HTML](https://img.shields.io/badge/HTML-Advanced-orange)
+![CSS](https://img.shields.io/badge/CSS-Advanced-orange)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
 
-- Python, Javascript, Typescript, HTML, CSS, SQL
+## Frameworks
+![Angular](https://img.shields.io/badge/Angular-Advanced-red)
+![React](https://img.shields.io/badge/React-Advanced-red)
+![Redux](https://img.shields.io/badge/Redux-Intermediate-blue)
+![Jquery](https://img.shields.io/badge/Jquery-Intermediate-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-orange)
+![Django](https://img.shields.io/badge/Django-Advanced-red)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-blue)
+![Express.js](https://img.shields.io/badge/Express.js-Advanced-red)
 
-### Frameworks
+## Cloud
+![GCP](https://img.shields.io/badge/GCP-Advanced-red)
+![Firebase](https://img.shields.io/badge/Firebase-Advanced-red)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-blue)
+![AWS](https://img.shields.io/badge/AWS-Advanced-red)
+![Snowflake](https://img.shields.io/badge/Snowflake-Intermediate-blue)
+![DBT](https://img.shields.io/badge/DBT-Intermediate-blue)
 
-- Angular, React, Redux, Jquery, Tailwind CSS, Django, Flask, Express.js
+## Other
+![CI/CD](https://img.shields.io/badge/CI_CD-Advanced-red)
+![Git](https://img.shields.io/badge/Git-Advanced-red)
+![Unix](https://img.shields.io/badge/Unix-Intermediate-blue)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-Advanced-red)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-Intermediate-blue)
+![GraphQL](https://img.shields.io/badge/GraphQL-Advanced-red)
+![REST API](https://img.shields.io/badge/REST_API-Advanced-red)
+![MQTT](https://img.shields.io/badge/MQTT-Intermediate-blue)
+![TDD](https://img.shields.io/badge/TDD-Advanced-red)
+![Pub-sub](https://img.shields.io/badge/Pub_sub-Intermediate-blue)
+![GRPC](https://img.shields.io/badge/GRPC-Advanced-red)
+![WebRTC](https://img.shields.io/badge/WebRTC-Advanced-red)
+![Microservices](https://img.shields.io/badge/Microservices-Advanced-red)
+![Websockets](https://img.shields.io/badge/Websockets-Advanced-red)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Intermediate-blue)
+![Redis](https://img.shields.io/badge/Redis-Intermediate-blue)
+![Data Structures](https://img.shields.io/badge/Data_Structures-Advanced-red)
 
-### Cloud
-
-- GCP (Cloudrun, CloudSQL, Cloudbuild), Firebase, Docker, Kubernetes, AWS (EC2, S3, Lambda), Snowflake, DBT
-
-### Other
-
-- CI/CD, Git, Unix, Unit testing, Web scraping (Puppeteer, Cheerio), GraphQL, REST API, MQTT, TDD, Pub-sub, GRPC, WebRTC, Microservices, Websockets, Elasticsearch, Redis, Data structures.
 
 ---
 

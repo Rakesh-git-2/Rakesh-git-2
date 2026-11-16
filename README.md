@@ -42,13 +42,17 @@ Side project. Scores 1,500+ US and Indian stocks every evening on six indicators
 
 The repo is private. I'm happy to walk through the code.
 
+### [SurveyHub](https://github.com/Rakesh-git-2/surveyhub)
+
+A survey platform where Gemini drafts a survey from a prompt and summarises the responses. Django REST Framework API with JWT auth and PostgreSQL on Fly.io; Next.js 15 front end on Cloudflare Pages. New responses fire HMAC-signed webhooks, and results export to CSV. [Live demo](https://surveyhub-aha.pages.dev)
+
 ### [Thirukkural](https://github.com/Rakesh-git-2/thirukkural)
 
 A web app and public REST API for all 1,330 couplets of the Thirukkural, with full-text search in Tamil and English. Next.js 15 on Cloudflare Pages, API on Cloudflare Workers. [Live site](https://thirukkural-54t.pages.dev)
 
 ### Smaller projects
 
-- [SUS_vs_RTLX](https://github.com/Rakesh-git-2/SUS_vs_RTLX): MSc dissertation on voice interface usability vs cognitive load, analysed in R
+- [SUS_vs_RTLX](https://github.com/Rakesh-git-2/SUS_vs_RTLX): MSc research project: usability vs cognitive load in voice assistants, analysed in R (r = 0.68 across 100 Alexa users)
 - [retail_bot](https://github.com/Rakesh-git-2/retail_bot): plain-English questions to SQL over a MySQL store database with LangChain
 
 ---

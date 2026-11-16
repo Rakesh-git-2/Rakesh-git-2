@@ -22,9 +22,9 @@
 
 ## About
 
-I'm a full-stack engineer in Dublin with about 5 years of experience, mostly AEM, JavaScript/TypeScript, React and Python.
+I'm a full-stack engineer in Dublin with about 5 years of experience, mostly AEM (Java and front end), JavaScript/TypeScript, React and Python.
 
-I'm a Senior Web Development Specialist at **Gen Digital**, working on the Norton, LifeLock and Avira websites. I build UI components such as navigation, quizzes and pricing, and handle the analytics and SEO around them. I also built an internal tool that connects Jira, Figma and browser DevTools to an AI agent through MCP, so the agent can pick up a ticket and do much of the implementation.
+I'm a Senior Web Development Specialist at **Gen Digital**, working on the Norton, LifeLock and Avira websites. I build AEM components end to end, from the Java back end (Sling Models, OSGi services, servlets) to the UI: navigation, quizzes, pricing, plus the analytics and SEO around them. I also built an internal tool that connects Jira, Figma and browser DevTools to an AI agent through MCP, so the agent can pick up a ticket and do much of the implementation.
 
 Before that I worked at startups in Chennai: I moved a backend from AWS EC2 to GCP Cloud Run (hosting cost roughly halved) and a data warehouse from PostgreSQL to Snowflake with dbt. MSc Information Systems, University College Dublin.
 
@@ -68,7 +68,7 @@ Details are in the [resume](https://rakesh-git-2.github.io/PortfolioV2/Rakesh_Sr
 
 ## Tools I use
 
-**Languages and web:** TypeScript, JavaScript, Python, SQL · React, Next.js, Angular, AEM (HTL, Sling Models)
+**Languages and web:** TypeScript, JavaScript, Python, Java, SQL · React, Next.js, Angular, AEM (Sling Models, OSGi, HTL)
 
 **Back end and data:** FastAPI, Django, Node.js, Express · PostgreSQL, Snowflake, dbt
 
